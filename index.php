@@ -35,7 +35,7 @@
 
 <div class="logo">
 <h1>
-	<a class="alogo" href="index.html" style="padding:13px 0 9px;float:left;"><img class="simg" src="img/logo2.png" style="margin-top:-1%;" /></a>	
+	<a class="alogo" href="index.php" style="padding:13px 0 9px;float:left;"><img class="simg" src="img/logo2.png" style="margin-top:-1%;" /></a>	
 </h1>
 </div>
 </div>
