@@ -108,7 +108,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:1%;background: #4ED800;color: white;">
 							<div class="service-box active" style="border: 3px solid white;float: left;width: 100%;">
 								<div class="service-box-top" style="padding: 3%;color:#fff;">
-									<h4 style="float: left;"><i class="fa fa-play-circle-o" style="font-size:50px;float: left;"></i>&nbsp;&nbsp;<a href="#service" style="color:#606060;float: left; padding-left: 15px;margin-top: 5%;">Start thriving along in us</a></h4>
+									<h4 style="float: left;"><i class="fa fa-play-circle-o" style="font-size:50px;float: left;"></i>&nbsp;&nbsp;<a href="#service" style="color:#606060;float: left; padding-left: 15px;margin-top: 5%;">Start thriving along with us</a></h4>
 								</div>
 								<!-- <p style="margin: 0px;">"Confidence thrives on honesty,on honor on the sacredness of obligations, on faithful protection and on unselfish performance.Without them it cannot live."</p> -->
 							</div>
@@ -116,7 +116,7 @@
 						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:1%; background: #47c500;color: white;">
 							<div class="service-box" style="border: 3px solid white;float: left;width: 100%;">
 								<div class="service-box-top" style="padding: 3%;color:#fff;">
-									<h4 style="float: left;"><i class="fa fa-play-circle-o" style="font-size:50px;float: left;"></i>&nbsp;&nbsp;<a href="#service"  style="color:#606060;float: left;padding-left: 15px;margin-top: 5%;">Start augmenting along in us</a></h4>
+									<h4 style="float: left;"><i class="fa fa-play-circle-o" style="font-size:50px;float: left;"></i>&nbsp;&nbsp;<a href="#service"  style="color:#606060;float: left;padding-left: 15px;margin-top: 5%;">Start augmenting along with us</a></h4>
 								</div>
 								<!-- <p style="margin: 0px;">"You cannot be buried in obscurity: you are exposed upon a grand theater to the view of the world."</p> -->
 							</div>
