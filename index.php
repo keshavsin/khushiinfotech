@@ -13,7 +13,7 @@
 	<link href="css/font-awesome.min.css" rel="stylesheet" /><!-- magnific-popup.css -->
 	<link href="css/magnific-popup.css" rel="stylesheet" /><!-- nivo-slider.css -->
 	<link href="css/nivo-slider.css" rel="stylesheet" /><!-- style css -->
-	<link href="style.css" rel="stylesheet" /><!-- responsive css -->
+	<link href="css/style.css" rel="stylesheet" /><!-- responsive css -->
 	<link href="css/responsive.css" rel="stylesheet" /><!-- modernizr css --><script src="js/vendor/modernizr-2.8.3.min.js"></script>
 		
 </head>
@@ -56,7 +56,7 @@
 	<li><a href="#about">About</a></li>
 	<li><a href="#service">Service</a></li>
 	<li><a href="#ourwork">Our Work</a></li>
-	<li><a href="#testimonial">Testimonial</a></li>
+	<!--<li><a href="#testimonial">Testimonial</a></li>-->
 	<li><a href="#projects">Projects</a></li>
 	<!-- <li><a href="javascript:void(0);">pages</a>
 										<ul>
@@ -74,16 +74,16 @@
 </header>
 <!-- hero-area start -->
 
-<section class="hero-area black-opacity parallax" data-bg-image="img/slider/7.jpg" data-speed="3" style="height: 75vh;">
+<section class="hero-area black-opacity parallax" data-bg-image="img/slider/17.jpg" data-speed="3" style="height: 75vh;">
 <div class="table">
 <div class="table-cell">
 <div class="container">
 <div class="row">
 <div class="col-xs-12">
 <div class="hero-wrapper">
-<h2>Your potential <span style="color:#47c500;">our Passion</span></h2>
+<h2>We Engineers <span style="color:#47c500;">Business Transform</span></h2>
 
-<h3>Welcome To <span style="color:#47c500;">Khushi InfoTech</span></h3>
+<h3>Software <span style="color:#47c500;">Application</span></h3>
 </div>
 </div>
 </div>
@@ -97,30 +97,28 @@
 	        <div class="service">
 				<div class="container-fluid">
 					<div class="row">
-						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:3%; background: #47c500;color: white;">
-							<div class="service-box">
-								<div class="service-box-top" style="margin-bottom: 17px;">
-									<h3><a href="#service"  style="color:#606060;"><i class="fa fa-play-circle-o" style="font-size:35px;"></i>&nbsp;&nbsp;Start entrusting us</a></h3>
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:1%; background: #47c500;color: white;">
+							<div class="service-box" style="border: 3px solid white;float: left;width: 100%;">
+								<div class="service-box-top" style="padding: 3%;">
+									<h4 style="float: left;"><i class="fa fa-play-circle-o" style="font-size:50px;float: left;"></i>&nbsp;&nbsp;<a href="#service"  style="color:#606060;float: left; padding-left: 15px;margin-top: 7%;">Start entrusting in us</a></h4>
 								</div>
-								<p style="margin: 0px;">"Believe, you need scientific proof that something works before you entrust your health to it"</p>
+								<!-- <p style="margin: 0px;">"Believe, you need scientific proof that something works before you entrust your health to it"</p> -->
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:3%;background: #4ED800;color: white;">
-							<div class="service-box active">
-								<div class="service-box-top" style="margin-bottom: 17px;color:#fff;">
-									<a href="#"><i class="flaticon-drilling-wall"></i></a>
-									<h3><a href="#service" style="color:#606060;"><i class="fa fa-play-circle-o" style="font-size:35px;"></i>&nbsp;&nbsp;Start thriving along with us</a></h3>
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:1%;background: #4ED800;color: white;">
+							<div class="service-box active" style="border: 3px solid white;float: left;width: 100%;">
+								<div class="service-box-top" style="padding: 3%;color:#fff;">
+									<h4 style="float: left;"><i class="fa fa-play-circle-o" style="font-size:50px;float: left;"></i>&nbsp;&nbsp;<a href="#service" style="color:#606060;float: left; padding-left: 15px;margin-top: 5%;">Start thriving along in us</a></h4>
 								</div>
-								<p style="margin: 0px;">"Confidence thrives on honesty,on honor on the sacredness of obligations, on faithful protection and on unselfish performance.Without them it cannot live."</p>
+								<!-- <p style="margin: 0px;">"Confidence thrives on honesty,on honor on the sacredness of obligations, on faithful protection and on unselfish performance.Without them it cannot live."</p> -->
 							</div>
 						</div>
-						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:3%; background: #47c500;color: white;">
-							<div class="service-box">
-								<div class="service-box-top" style="margin-bottom: 17px;color:#fff;">
-									<a href="#"><i class="flaticon-road-perspective-of-curves"></i></a>
-									<h3><a href="#service"  style="color:#606060;"><i class="fa fa-play-circle-o" style="font-size:35px;"></i>&nbsp;&nbsp;Start augmenting along with us</a></h3>
+						<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" style="padding:1%; background: #47c500;color: white;">
+							<div class="service-box" style="border: 3px solid white;float: left;width: 100%;">
+								<div class="service-box-top" style="padding: 3%;color:#fff;">
+									<h4 style="float: left;"><i class="fa fa-play-circle-o" style="font-size:50px;float: left;"></i>&nbsp;&nbsp;<a href="#service"  style="color:#606060;float: left;padding-left: 15px;margin-top: 5%;">Start augmenting along in us</a></h4>
 								</div>
-								<p style="margin: 0px;">"You cannot be buried in obscurity: you are exposed upon a grand theater to the view of the world."</p>
+								<!-- <p style="margin: 0px;">"You cannot be buried in obscurity: you are exposed upon a grand theater to the view of the world."</p> -->
 							</div>
 						</div>
 					</div>
@@ -643,13 +641,13 @@ Our expertise will help you decide the right component for the right business ne
 
 <!-- pricing-table-area end --><!-- testmonial-area start -->
 
-<section class="testmonial-area ptb-180 bg-1" id="testimonial" style="padding-bottom:0px;">
+<!--<section class="testmonial-area ptb-180 bg-1" id="testimonial" style="padding-bottom:0px;">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2  col-sm-10 col-sm-10 col-sm-offset-1 col-xs-12">
 				<div class="section-title text-center mb-60">
 					<h2>Our Testmonial</h2>
-					<!-- <p>Client testimonials to your website can be an extremely effective way to establish trust and strengthen your company's reputation.Since every business comes with its set of unique challenges and process specialties, each of them needs a customized software solution to meet the present competitive needs. </p> -->
+				
 				</div>
 			</div>
 		</div>
@@ -700,7 +698,7 @@ Our expertise will help you decide the right component for the right business ne
 			</div>
 		</div>
 	</div>
-</section>
+</section>-->
 <!-- testmonial-area end -->
 
 
@@ -739,7 +737,7 @@ Our expertise will help you decide the right component for the right business ne
 			<div class="col-md-4 col-sm-6 col-xs-12">
 				<div class="blog-wrap">
 					<div class="blog-img">
-						<img src="img/blog/think3.png" alt="" />
+						<img src="img/blog/book.png" alt="" />
 					</div>
 					<div class="blog-content">
 						<div class="blog-meta">
@@ -749,8 +747,10 @@ Our expertise will help you decide the right component for the right business ne
 								<li><a href="#"><i class="fa fa-heart"></i> 28 like</a></li>
 							</ul> -->
 						</div>
-						<h3><a href="http://www.thinknsolutions.com/" target="_blank">Think n Solutions</a></h3>
-						<p style="text-align:justify">Our aim is to drive customer success through optimized solutions, to facilitate our clients to accelerate their business & operational efficiency and to offer services that have long-term and overarching benefits.we are always innovating for our clients. </p>
+						<h3><a href="http://www.standardbookcompany.com/" target="_blank">THE STANDARD BOOK COMPANY</a></h3>
+						<p style="text-align:justify">THE STANDARD BOOK COMPANY is serving libraries all over South and West India, backed up by extensive experience in the field for nearly 80 years. The company will celebrated its 8OTH ANNIVERSARY in 2015. 
+
+Having been in the information business for nearly 80 years.</p>
 				
 					</div>
 				</div>
@@ -834,20 +834,76 @@ Our expertise will help you decide the right component for the right business ne
 
 <div class="cf-msg">&nbsp;</div>
 
-<form action="http://irsfoundation.com/tf/templates/onepixel-preview/onepixel/mail.php" id="cf" method="post">
+<form id="contact-form" method="POST" >
+<h5 class="text-center" style="color:red;">
+<?php 
+if(isset($_POST['submit'])){
+    $to = "keshavsin@gmail.com"; // this is your Email address
+    $from = $_POST['email']; // this is the sender's Email address
+    $name = $_POST['name'];
+    $phone = $_POST['phone'];
+    $subject =$_POST['subject'];
+    $comment = $_POST['comment'];
+$message = "Your Online Enquiry Form details below.\n\n\n\n";
+$err='';
+    if($name =='') {
+		$err .='<li>'.'Please enter Name'.'</li>';
+	}
+	
+		
+	// validate email
+	if($from =='') {
+		$err .='<li>'.'Please enter Email address'.'</li>';
+	}
+
+	// validate attachments
+	if( $phone =='' ) {
+		$err .='<li>'.'Please enter Phone number'.'</li>';
+	}
+	if( $subject =='' ) {
+		$err .='<li>'.'Please Enter Subject'.'</li>';
+	}
+	if( $comment =='' ) {
+		$err .='<li>'.'Please enter Message detail'.'</li>';
+	}			
+	if($err) {
+		echo '<div class="error">'.$err.'</div>';
+	}		
+	
+	else {
+   
+	$subject = "Online Enquiry";
+
+    $message .="Name: " .$name."\n\n";
+	$message .="Email: " .$from."\n\n";
+    $message .="Phone Number: " . $phone . " \n\n" ;
+    $message .="Subject: " . $_POST['subject'] ."\n\n";
+    $message .= "Message: " . $_POST['comment']."\n\n";
+
+    
+
+    $headers = "From:" . $from;
+    $headers2 = "From:" . $to;
+    mail($to,$subject,$message,$headers);
+    echo "Mail Sent. Thank you " . $name . ", we will contact you shortly.";
+
+    }
+    
+    }
+?></h5>
 <div class="row">
-<div class="col-md-6 col-xs-12"><input id="fname" name="fname" placeholder="Your Name" type="text" /></div>
+<div class="col-md-6 col-xs-12"><input id="name" name="name" placeholder="Your Name" type="text" required/></div>
 
-<div class="col-md-6 col-xs-12"><input id="email" name="email" placeholder="Email Id" type="text" /></div>
+<div class="col-md-6 col-xs-12"><input id="email" name="email" placeholder="Email Id" type="text" required/></div>
 
-<div class="col-md-6 col-xs-12"><input id="subject" name="subject" placeholder="Subject" type="text" /></div>
+<div class="col-md-6 col-xs-12"><input id="subject" name="subject" placeholder="Subject" type="text" required/></div>
 
 
-<div class="col-md-6 col-xs-12"><input id="phoneno" name="phoneno" placeholder="Phone Number" type="number" /></div>
+<div class="col-md-6 col-xs-12"><input id="phone" name="phone" placeholder="Phone Number" type="text" required/></div>
 
-<div class="col-xs-12"><textarea class="contact-textarea" id="msg" name="msg" placeholder="Message"></textarea></div>
+<div class="col-xs-12"><textarea class="contact-textarea" id="comment" name="comment" placeholder="Message" required/></textarea></div>
 
-<div class="col-xs-12"><button class="cont-submit btn-contact" id="submit" name="submit">SEND MESSAGE</button></div>
+<div class="col-xs-12"><button class="cont-submit btn-contact" type="submit" value="SEND" name="submit" required/>SEND MESSAGE</button></div>
 </div>
 </form>
 </div>
@@ -864,7 +920,7 @@ Our expertise will help you decide the right component for the right business ne
 
 <ul>
 	<li><span>Phone :</span>+91 - 9845032710</li>
-	<li><span>Email :</span> info@khushiinfotech.com</li>
+	<li><span>Email :</span> keshavsin@gmail.com</li>
 	<li><span>Location :</span>#2, 3rd Main Road, Postal Colony, Sanjay Nagar, Bengaluru - 94</li>
 </ul>
 <!-- <h3>Australia</h3>
@@ -887,7 +943,7 @@ Our expertise will help you decide the right component for the right business ne
 <div class="row">
 		<div class="kode_copyright">
 				<p style="float:left;margin:0px;">Copyright © KhushiInfotech | All Rights Reserved. </p>
-				<p  style="float:right;margin:0px;">Designed By:&nbsp;<a href="http://www.mindstuff.in" target="_blank"><span style="color:red;">Mind</span><span style="color:#0099cc;">stuff</span> <span style="color:darkgray;">Innovations</span></a></p>
+				<!--<p  style="float:right;margin:0px;">Designed By:&nbsp;<a href="http://www.mindstuff.in" target="_blank"><span style="color:red;">Mind</span><span style="color:#0099cc;">stuff</span> <span style="color:darkgray;">Innovations</span></a></p>-->
 				</a>
 			</div>
 </div>
@@ -898,9 +954,9 @@ Our expertise will help you decide the right component for the right business ne
 <!-- jquery.waypoints.min.js --><script src="js/jquery.waypoints.min.js"></script><!-- animate.js --><script src="js/animate.js"></script><!-- animate.js --><script src="js/mixitup.min.js"></script><!-- jquery.nivo.slider.pack.js --><script src="js/jquery.nivo.slider.pack.js"></script><!-- jquery.magnific-popup.min.js --><script src="js/jquery.magnific-popup.min.js"></script><!-- jquery.ripples-min.js --><script src="js/jquery.ripples-min.js"></script><!-- jquery.particleground.min.js --><script src="js/jquery.particleground.min.js"></script><!-- youtubebg.js --><script src="js/youtubebg.js"></script><!-- wow js --><script src="js/wow.min.js"></script><!-- plugins js --><script src="js/plugins.js"></script><!-- google map --><script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD1cZtqidvg0m-f8Hd3S6RHx1mY-omuLS4"></script><script>
             function initialize() {
                 var mapOptions = {
-                    zoom: 15,
+                    zoom: 16,
                     scrollwheel: false,
-                    center: new google.maps.LatLng(13.0209182, 77.5881225),
+                    center: new google.maps.LatLng(13.034419, 77.576043),
                 };
 
                 var map = new google.maps.Map(document.getElementById('googleMap'),
