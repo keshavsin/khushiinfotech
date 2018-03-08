@@ -80,10 +80,10 @@
 <div class="container">
 <div class="row">
 <div class="col-xs-12">
-<div class="hero-wrapper">
-<h2>We Engineers <span style="color:#47c500;">Business Transform</span></h2>
+<div class="hero-wrapper text-center">
+<h2>We engineer business transforming software applications.</h2>
 
-<h3>Software <span style="color:#47c500;">Application</span></h3>
+<!--<h3>Software <span style="color:#47c500;">Application</span></h3>-->
 </div>
 </div>
 </div>
@@ -134,7 +134,7 @@
 <div class="section-title text-center mb-60">
 <h2>About Us</h2>
 
-<p>Khushi InfoTech provide software solutions which are cost effective and scalable especially where the conventional readily available packages do not fulfill the specific business requirements. 
+<p>Khushi Infotech provide software solutions which are cost effective and scalable especially where the conventional readily available packages do not fulfill the specific business requirements. 
 
 </p>
 </div>
@@ -942,7 +942,7 @@ $err='';
 <div class="container">
 <div class="row">
 		<div class="kode_copyright">
-				<p style="float:left;margin:0px;">Copyright © KhushiInfotech | All Rights Reserved. </p>
+				<p style="float:left;margin:0px;">Copyright © Khushi Infotech | All Rights Reserved. </p>
 				<!--<p  style="float:right;margin:0px;">Designed By:&nbsp;<a href="http://www.mindstuff.in" target="_blank"><span style="color:red;">Mind</span><span style="color:#0099cc;">stuff</span> <span style="color:darkgray;">Innovations</span></a></p>-->
 				</a>
 			</div>
