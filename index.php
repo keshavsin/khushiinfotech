@@ -838,7 +838,7 @@ Having been in the information business for nearly 80 years.</p>
 <h5 class="text-center" style="color:red;">
 <?php 
 if(isset($_POST['submit'])){
-    $to = "keshavsin@gmail.com"; // this is your Email address
+    $to = "keshavsin@khushinfotech.com"; // this is your Email address
     $from = $_POST['email']; // this is the sender's Email address
     $name = $_POST['name'];
     $phone = $_POST['phone'];
@@ -920,7 +920,7 @@ $err='';
 
 <ul>
 	<li><span>Phone :</span>+91 - 9845032710</li>
-	<li><span>Email :</span> keshavsin@gmail.com</li>
+	<li><span>Email :</span> keshavsin@khushinfotech.com</li>
 	<li><span>Location :</span>#2, 3rd Main Road, Postal Colony, Sanjay Nagar, Bengaluru - 94</li>
 </ul>
 <!-- <h3>Australia</h3>
