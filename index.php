@@ -156,8 +156,8 @@
 <ul>
 	<li>Understanding the truth of progressing market is very important.</li>
 	<li>Adaptability is essential for businesses to thrive in this environment.</li>
-	<li>All businesses are leaning on user experience (UX) and customer experience (CX) to drive digital conversions and revenue. </li>
-	<li>Virtually changed the way businesses advertise services. </li>
+	<li>All business lean towards User Experience &amp; Customer Experience to expedite digital conversions and revenue. </li>
+	<li>Virtually changing ways of doing businesses with digital marketing strategies. </li>
 	 <li>People interact with each other,media reaches the masses.</li>
 	 <li>Internet basics, including the basis for the World wide related information.</li>
 	 <!-- <li>Basic guide to the Internet, including basic terminology, anonymity, Internet tools</li> -->
@@ -178,16 +178,11 @@
 		</p>
 		<ul>
 		<li>Future markets will revolve around handy gadgets including mobile phones, tablets, and similar wearable gadgets. </li>
-		<li>Access to your data on mobile applications is at the heart of success in the new mobile world.</li>
-		<li>Mobile strategy can unleash a whole new dynamics for customers and compliments it. </li>
+		<li>Access to data on mobile applications is at the heart of success in today&quot;s world.</li>
+		<li>Mobile approach will release a whole new direction for customers and naturally compliments to the way the system works. </li>
 			<liApplication that are not preinstalled are usually available through distribution platforms called application stores.</li>
 			<li>Mobile application were originally offered for general productivity and information retrieval.</li>
 		<li>Good design is obvious,great design is transparent.</li> 
-			<!-- <li>Subjects such as Web programming and network administration.</li> -->
-			<!-- <li>Internet training provides Internet access in developing.</li> -->
-			<!-- <li>Focus is on creating resources in local languages,making Internet usage.</li> -->
-			<!-- <li>Internet accomplishes data interchange, Internet resources.</li> -->
-			<!-- <li>Numbers,the networks,and physical connection.</li> -->
 		</ul>
 		</div>
 <div class="about-img"><img alt="" src="img/about/166.jpg" /></div>
@@ -218,7 +213,7 @@
 <i class="fa fa-television"></i>
 <h3>IT Services & Training</h3>
 
-<p style="text-align:justify">Infrastructure services helps enteprises design, build and manage a highly flexible, scalable and reliable IT infrastructure.</p>
+<p style="text-align:justify">Our Infra-structure service helps design, build and manage a highly flexible, scalable and reliable IT product.</p>
 </div>
 </div>
 
@@ -239,13 +234,6 @@
 <p style="text-align:justify">Expertise on leading software development platforms like Java, PHP, NodeJS, to deliver enterprise and business software for business solutions.</p>
 </div>
 </div>
-<!-- <div class="col-md-4 col-sm-6 col-xs-12">
-						<div class="service-wrap">
-							<i class="fa fa-android"></i>
-							<h3>Mobail App</h3>
-							<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
-						</div>
-					</div> -->
 
 <div class="col-md-4 col-sm-6 col-xs-12">
 <div class="service-wrap">
@@ -270,7 +258,7 @@
 <i class="fa fa-th-large"></i>
 <h3>Software Development</h3>
 
-<p style="text-align:justify">Infrastructure services helps enteprises Design, build and manage a highly flexible , scalable and reliable IT infrastructure.</p>
+<p style="text-align:justify">Our Infra-structure service helps design, build and manage a highly flexible, scalable and reliable IT product.</p>
 </div>
 </div>
 
@@ -298,7 +286,7 @@
 				<div class="col-md-8 col-md-offset-2  col-sm-10 col-sm-10 col-sm-offset-1 col-xs-12">
 					<div class="section-title text-center mb-60">
 						<h2>Our Work</h2>
-						<p>With years of expertise in various kinds of open source development, we are always ready to handle all your project requirements which can involve different dimensions of development, integration, migration, support, and testing to meet each specific requirement of the project.
+						<p>With years of expertise in various open source development, we are always ready to fulfill all your specific requirements which involves different dimensions in a project,  development, testing,  deploymen, mainatenance and support of existing or new products.
 </p>
 					</div>
 				</div>
@@ -308,7 +296,6 @@
 					<div class="portfolio-menu">
 						<ul>
 							<li class="filter active" data-filter="all">All</li>
-							<!-- <li  class="filter" data-filter=".webSite">Information Technology</li> -->
 							<li  class="filter" data-filter=".responsiv">iOS Application</li>
 							<li  class="filter" data-filter=".minimal">Emerging Trends</li>
 							<li  class="filter" data-filter=".clean">Ionic Application </li>
@@ -318,42 +305,6 @@
 				</div>
 			</div>
 			<div class="row" id="Container">
-			
-<!-- 				<div class="col-md-4 mix webSite  col-sm-6 col-xs-12">
-					<div class="portfolio-items">
-						<img src="img/portfolio/54.jpg" alt="" />
-						<div class="portfolio-content text-center">
-							<a href="img/portfolio/54.jpg" class="img-poppu"><i class="fa fa-link"></i></a>
-							<h3>Information Technology</h3>
-							<p style="text-align:justify">Khushi Infotech can help you create a brilliant responsive design for your website that is user friendly.</p>
-						</div>
-					</div>
-				</div> -->
-				
-				<!-- <div class="col-md-4 mix webSite  col-sm-6 col-xs-12">
-					<div class="portfolio-items">
-						<img src="img/portfolio/55.jpg" alt="" />
-						<div class="portfolio-content text-center">
-							<a href="img/portfolio/55.jpg" class="img-poppu"><i class="fa fa-link"></i></a>
-							<h3>Information Technology</h3>
-							<p style="text-align:justify">Information Technology are the rules of data protection on physical, technical and
-organizational level.</p>
-						</div>
-					</div>
-				</div> -->
-			
-<!-- 				<div class="col-md-4 mix webSite  col-sm-6 col-xs-12">
-					<div class="portfolio-items">
-						<img src="img/portfolio/58.jpg" alt="" />
-						<div class="portfolio-content text-center">
-							<a href="img/portfolio/58.jpg" class="img-poppu"><i class="fa fa-link"></i></a>
-							<h3>Information Technology</h3>
-							<p style="text-align:justify">It has become appallingly obvious that our technology has exceeded.</p>
-						</div>
-					</div>
-				</div>
-				 -->
-			
 			<div class="col-md-4 mix android  col-sm-6 col-xs-12">
 					<div class="portfolio-items">
 						<img src="img/portfolio/31.jpg" alt="" />
@@ -364,8 +315,6 @@ organizational level.</p>
 						</div>
 					</div>
 				</div>
-				
-				
 				<div class="col-md-4 mix android  col-sm-6 col-xs-12">
 					<div class="portfolio-items">
 						<img src="img/portfolio/34.jpg" alt="" />
@@ -376,8 +325,6 @@ organizational level.</p>
 						</div>
 					</div>
 				</div>
-				
-				
 				<div class="col-md-4 mix android col-sm-6 col-xs-12">
 					<div class="portfolio-items">
 						<img src="img/portfolio/32.jpg" alt="" />
@@ -388,16 +335,14 @@ organizational level.</p>
 						</div>
 					</div>
 				</div>
-				
-				
 				<div class="col-md-4 mix minimal  col-sm-6 col-xs-12">
 					<div class="portfolio-items">
 						<img src="img/portfolio/45.jpg" alt="" />
 						<div class="portfolio-content text-center">
 							<a href="img/portfolio/45.jpg" class="img-poppu"><i class="fa fa-link"></i></a>
 							<h3>Emerging Trends</h3>
-							<p style="text-align:justify">The user experience creates an impression and hugely influences the way they react to the product.</p>
-						</div>
+							<p style="text-align:justify">The user experience creates a huge impression and in turn influences the way customers react to the product.</p>
+						</div> 
 					</div>
 				</div>
 				
@@ -407,7 +352,7 @@ organizational level.</p>
 						<div class="portfolio-content text-center">
 							<a href="img/portfolio/49.jpg" class="img-poppu"><i class="fa fa-link"></i></a>
 							<h3>Emerging Trends</h3>
-							<p style="text-align:justify">Khushi Infotech can help you create a brilliant responsive design for your website that is user friendly.</p>
+							<p style="text-align:justify">Khushi Infotech can help you create responsive design for your website that is not only user friendly but also scalable, maintainable and upgradable.</p>
 						</div>
 					</div>
 				</div>
@@ -418,7 +363,7 @@ organizational level.</p>
 						<div class="portfolio-content text-center">
 							<a href="img/portfolio/50.jpg" class="img-poppu"><i class="fa fa-link"></i></a>
 							<h3>Emerging Trends</h3>
-							<p style="text-align:justify"> It is served as a big change agent in different aspect of business and society. </p>
+							<p style="text-align:justify">It is served as a big change agent in different aspect of business and society. </p>
 						</div>
 					</div>
 				</div>
@@ -437,18 +382,6 @@ organizational level.</p>
 
 				<div class="col-md-4 mix responsiv  col-sm-6 col-xs-12">
 					<div class="portfolio-items">
-						<img src="img/portfolio/52.jpg" alt="" />
-						<div class="portfolio-content text-center">
-							<a href="img/portfolio/52.jpg" class="img-poppu"><i class="fa fa-link"></i></a>
-							<h3>IOS application</h3>
-							<p style="text-align:justify">The web is information oriented whereas web applications are tasks oriented but needing the right information at the right time.</p>
-						</div>
-					</div>
-				</div>
-				
-				
-					<div class="col-md-4 mix responsiv  col-sm-6 col-xs-12">
-					<div class="portfolio-items">
 						<img src="img/portfolio/51.jpg" alt="" />
 						<div class="portfolio-content text-center">
 							<a href="img/portfolio/51.jpg" class="img-poppu"><i class="fa fa-link"></i></a>
@@ -464,7 +397,7 @@ organizational level.</p>
 						<div class="portfolio-content text-center">
 							<a href="img/portfolio/39.jpg" class="img-poppu"><i class="fa fa-link"></i></a>
 							<h3>Ionic application</h3>
-							<p style="text-align:justify">Ionic Application provides all the functionality which can be found in native mobile development SDK</p>
+							<p style="text-align:justify">Our mobile applications are built on Ionic framework</p>
 						</div>
 					</div>
 				</div>
@@ -475,19 +408,17 @@ organizational level.</p>
 						<div class="portfolio-content text-center">
 							<a href="img/portfolio/53.jpg" class="img-poppu"><i class="fa fa-link"></i></a>
 							<h3>Ionic application</h3>
-							<p style="text-align:justify">With Ionic Application creating a high-performance, cross-platform mobile application is as easy as creating a website.</p>
+							<p style="text-align:justify">Ionic is a hybrid open source framework for creating a high-performance, cross-platform mobile application &amp; is as easy as creating a website.</p>
 						</div>
 					</div>
 				</div>
-				
-				
 				<div class="col-md-4 mix clean col-sm-6 col-xs-12">
 					<div class="portfolio-items">
 						<img src="img/portfolio/40.jpg" alt="" />
 						<div class="portfolio-content text-center">
 							<a href="img/portfolio/40.jpg" class="img-poppu"><i class="fa fa-link"></i></a>
 							<h3>Ionic application</h3>
-							<p style="text-align:justify">Ionic Application Ionic also provides a powerful command-line interface </p>
+							<p style="text-align:justify">Ionic is built on open source frameworks like Cordova and AngularJS</p>
 						</div>
 					</div>
 				</div>
@@ -550,7 +481,8 @@ Our expertise will help you decide the right component for the right business ne
 
 <div aria-labelledby="headingOne" class="panel-collapse collapse in" id="collapseOne">
 <div class="panel-body">
-<p style="text-align:justify">Corporate Training is seen as catalysts that not only make corporate to understand the psychology of their employees but also bring changes in the attitude and behaviour.</p>
+<p style="text-align:justify">Most of the corporate trainings are done with a slide show which we do not believe in. 
+We deal with concept and an example, we prepare them for future trainings for giving them a strong base. It is not just about training technical, about the role individual plays in a company.</p>
 </div>
 </div>
 </div>
@@ -562,7 +494,9 @@ Our expertise will help you decide the right component for the right business ne
 
 <div aria-labelledby="headingTwo" class="panel-collapse collapse" id="collapseTwo">
 <div class="panel-body">
-<p style="text-align:justify">Our wide-ranging software development and application design technical expertise is essential to deliver transparent support when the customer decides to switch technical direction, undergo language, platform migration or integrate with external products.</p>
+<p style="text-align:justify">As we are aware that every day we have new technologies emerging and it is highly impossible for oneself to attend each and every training, else you will always be attending only trainings and no work.</p>
+<p style="text-align:justify">To overcome this, you need to make sure that you master one language and rest should be a reference. What is that which changes between different languages, it is just the syntax and the environment.</p>
+<p style="text-align:justify">We provide, on the job technical training, we refer to it as industry training which is a span of three months for freshers and also laterals who are need to upgrade themselves to new technologies. Our trainings are not class room based trainings.</p>
 </div>
 </div>
 </div>
@@ -574,7 +508,7 @@ Our expertise will help you decide the right component for the right business ne
 
 <div aria-labelledby="headingThree" class="panel-collapse collapse" id="collapseThree">
 <div class="panel-body">
-<p style="text-align:justify"> Process training that relies only on diagrams and PPT slides is less stimulating and boring.</p>
+<p style="text-align:justify">Being technical is alone not enough for you to be a software engineer, however smart he is, should be a part of the team/game. If everyone follows their own process, you can guess the outcome of the product under development.</p>
 </div>
 </div>
 </div>
@@ -586,9 +520,8 @@ Our expertise will help you decide the right component for the right business ne
 
 <div aria-labelledby="headingfour" class="panel-collapse collapse" id="collapsefour">
 <div class="panel-body">
-<p style="text-align:justify">As we are aware that every day we have new technologies emerging and it is highly impossible for oneself to attend each and every training, else you will always be attending only trainings and no work.</p>
-
-<p style="text-align:justify">To overcome this, you need to make sure that you master one language and rest should be a reference. What is that which changes between different languages, it is just the syntax and the environment.</p>
+<p style="text-align:justify">Training is an important part of an organization, with the emerging or evolving technologies we need to keep the pace to be in the competitive world and frequently know which best suits for which product. </p>
+<p style="text-align:justify">When we talk about products, product is designed based on the domain on which the business is running. If trainees aren't aware of the domain, they will miss visualizing the outcome of the product which inturn will affects efficiency in development. One who involves developing a product should also be a subject matter expert (SME) for that domain for which the product is being developed. The difference in the output of being a domain expert or a subject matter expert is observed in the quality of the development</p>
 </div>
 </div>
 </div>
@@ -635,74 +568,6 @@ Our expertise will help you decide the right component for the right business ne
 </div>
 </div>
 </section>
-
-<!-- funfact-area End --><!-- pricing-table-area start -->
-
-
-<!-- pricing-table-area end --><!-- testmonial-area start -->
-
-<!--<section class="testmonial-area ptb-180 bg-1" id="testimonial" style="padding-bottom:0px;">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 col-md-offset-2  col-sm-10 col-sm-10 col-sm-offset-1 col-xs-12">
-				<div class="section-title text-center mb-60">
-					<h2>Our Testmonial</h2>
-				
-				</div>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-xs-12">
-				<div class="testmonial-active">
-					<div class="test-items fix">
-						<div class="test-img">
-							<img src="img/test/111.jpg" alt="" />
-						</div>
-						<div class="text-content">
-							<p style="text-align:justify">The expert in anything was once a beginner, don’t hesitate to be a beginner today and work hard towards your goals consistently you will be successful.</p>
-							<h3>Aniketh pankaj</h3>
-							
-						</div>
-					</div>
-					<div class="test-items fix test-items2">
-						<div class="text-content text-right">
-							<p style="text-align:justify">Web design industry it is the simplest and cheapest to create, as it tends to have no user-based contribution or login area. Design and branding are the priority, not functionality.</p>
-							<h3>Sachin palani</h3>
-							
-						</div>
-						<div class="test-img">
-							<img src="img/test/222.jpg" alt="" />
-						</div>
-					</div>
-					<div class="test-items fix">
-						<div class="test-img">
-							<img src="img/test/333.jpg" alt="" />
-						</div>
-						<div class="text-content">
-							<p style="text-align:justify">Khushi Infotech provides business technology,product reviews and enterprise IT strategies.</p>
-							<h3>Rajesh T</h3>
-							
-						</div>
-					</div>
-					<div class="test-items fix test-items2">
-						<div class="text-content text-right">
-							<p>khushi Infotech works with business and technology leaders to develop customer-obsessed strategies that drive growth</p>
-							<h3>Amrith</h3>
-							
-						</div>
-						<div class="test-img">
-							<img src="img/test/444.jpg" alt="" />
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>-->
-<!-- testmonial-area end -->
-
-
-<!-- team-area end --><!-- blog-area start -->
 
 <section class="blog-area ptb-180 bg-1" id="projects">
 	<div class="container">
@@ -913,23 +778,15 @@ $err='';
 <div class="contact-wrapper">
 <h2>Get In Touch</h2>
 
-<p>If you need more information about our services or have any other queries fill the form  and let us help you out.Our custom application and software development services cater a diverse range of industry verticals.
+<p>If you need more information about our services or have any other queries fill the form  and let us help you out. Our custom application and software development services cater a diverse range of industry verticals.
 </p>
-
 <h3>Bangalore</h3>
-
 <ul>
 	<li><span>Phone :</span>+91 - 9845032710</li>
 	<li><span>Email :</span> keshavsin@khushinfotech.com</li>
 	<li><span>Location :</span>#2, 3rd Main Road, Postal Colony, Sanjay Nagar, Bengaluru - 94</li>
 </ul>
-<!-- <h3>Australia</h3>
-							<ul>
-								<li><span>Phone :</span> +014 1548 252</li>
-								<li><span>Email :</span> onpixel12456@gmail.com</li>
-								<li><span>Fax :</span>fax4547574</li>
-								<li><span>Location</span> 201 Oak Street Building 27 Manchester, USA</li>
-							</ul> --></div>
+</div>
 </div>
 </div>
 </div>
@@ -943,8 +800,6 @@ $err='';
 <div class="row">
 		<div class="kode_copyright">
 				<p style="float:left;margin:0px;">Copyright © Khushi Infotech | All Rights Reserved. </p>
-				<!--<p  style="float:right;margin:0px;">Designed By:&nbsp;<a href="http://www.mindstuff.in" target="_blank"><span style="color:red;">Mind</span><span style="color:#0099cc;">stuff</span> <span style="color:darkgray;">Innovations</span></a></p>-->
-				</a>
 			</div>
 </div>
 </div>
